@@ -1,0 +1,128 @@
+var myArray = [
+{
+	"place": "Kempervennen (NL)",
+	"datum": "20/07/14",
+	"timeIn": "9h23",
+	"time": "28 min",
+	"depth": "5,7 m",
+	"buddys": "<a href=http://divevolution.be>Steven Vercauteren (instr.)</a> en Christine Lobbestael",
+	"info": "OW"
+},
+{
+	"place": "Kempervennen (NL)",
+	"datum": "20/07/14",
+	"timeIn": "12h25",
+	"time": "17 min",
+	"depth": "5,8 m",
+	"buddys": "Steven Vercauteren (instr.) en <a href=http://www.vanbellenet.be> Henrik Vanbelle</a>",
+	"info": "OW"
+},
+{
+	"place": "Kempervennen (NL)",
+	"datum": "20/07/14",
+	"timeIn": "9h52",
+	"time": "23 min",
+	"depth": "8,1 m",
+	"buddys": "Steven Vercauteren (instr.) en Christine Lobbestael",
+	"info": "OW"
+},
+{
+	"place": "Kempervennen (NL)",
+	"datum": "20/07/14",
+	"timeIn": "11h45",
+	"time": "20 min",
+	"depth": "6,8 m",
+	"buddys": "Steven Vercauteren (instr.) en Christine Lobbestael",
+	"info": "OW"
+},
+{
+	"place": "Los Pecias (E)",
+	"datum": "5/08/14",
+	"timeIn": "10h25",
+	"time": "36 min",
+	"depth": "16,5 m",
+	"buddys": "groep",
+	"info": "organisatie: <a href=http://rubicondiving.com/>Rubicon Diving</a>"
+},
+{
+	"place": "Los Colorados (E)",
+	"datum": "5/08/14",
+	"timeIn": "12h32",
+	"time": "57 min",
+	"depth": "15,9 m",
+	"buddys": "groep",
+	"info": "organisatie: Rubicon Diving"
+},
+{
+	"place": "Marina Rubicon (E)",
+	"datum": "7/08/14",
+	"timeIn": "16h21",
+	"time": "38 min",
+	"depth": "6,3 m",
+	"buddys": "Danielle Firlefyn",
+	"info": "organisatie: Rubicon Diving"
+},
+{
+	"place": "Barrage de l'Eau d'Heure (B)",
+	"datum": "7/09/14",
+	"timeIn": "",
+	"time": "10 min",
+	"depth": "12,7 m",
+	"buddys": "Henrik Vanbelle",
+	"info": ""
+},
+{
+	"place": "Barrage de l'Eau d'Heure (B)",
+	"datum": "7/09/14",
+	"timeIn": "",
+	"time": "12 min",
+	"depth": "9,3 m",
+	"buddys": "Henrik Vanbelle",
+	"info": ""
+},
+{
+	"place": "Kempervennen (NL)",
+	"datum": "11/07/15",
+	"timeIn": "10h37",
+	"time": "22 min",
+	"depth": "5,5 m",
+	"buddys": "Steven Vercauteren (instr.)",
+	"info": "AOW: PPB"
+},
+{
+	"place": "Kempervennen (NL)",
+	"datum": "11/07/15",
+	"timeIn": "13h27",
+	"time": "20 min",
+	"depth": "5 m",
+	"buddys": "Steven Vercauteren (instr.)",
+	"info": "AOW: navigatie"
+},
+{
+	"place": "Kempervennen (NL)",
+	"datum": "12/07/15",
+	"timeIn": "11h11",
+	"time": "24 min",
+	"depth": "6,2 m",
+	"buddys": "Steven Vercauteren (instr.)",
+	"info": "AOW: wrak"
+},
+{
+	"place": "Kempervennen (NL)",
+	"datum": "12/07/15",
+	"timeIn": "13h55",
+	"time": "42 min",
+	"depth": "6,2 m",
+	"buddys": "Steven Vercauteren (instr.)",
+	"info": "AOW: zoeken en bergen"
+},
+{
+	"place": "Nemo 33 (B)",
+	"datum": "15/07/15",
+	"timeIn": "19h00",
+	"time": "18 min",
+	"depth": "25,9 m",
+	"buddys": "Steven Vercauteren (instr.)",
+	"info": "AOW: diep"
+},
+];
