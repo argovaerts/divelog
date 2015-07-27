@@ -1,0 +1,16 @@
+var myConfig = [
+{
+	"firstname": "Arne",
+	"lastname": "Govaerts",
+	"website": "https://argovaerts.github.io",
+	
+	"link1name": "Home",
+	"link1url": "https://argovaerts.github.io",
+	"link2name": "Projecten",
+	"link2url": "https://argovaerts.github.io/projects.html",
+	"link3name": "Explorer Divers Lebbeke",
+	"link3url": "https://sites.google.com/site/explorerdiverslebbeke/",
+	
+	"copyright": "© 2015 Arne Govaerts <a href=https://github.com/argovaerts/divelog/>Licentie</a>"
+},
+];

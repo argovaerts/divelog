@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang = "nl">
+<html>
 
 <head>
 
@@ -8,7 +8,7 @@
     <title>Divers's Log</title>
     <meta charset = "UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	<meta name="description" content="Diver's Log of Arne Govaerts" />
+	<meta name="description" content="Diver's Log created by Arne Govaerts" />
 	
 	<!-- css -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
@@ -28,7 +28,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col s12">
-					<h1 class="center-align white-text">Arne's Log</h1>
+					<h1 class="center-align white-text" id="title"></h1>
 				</div>
 			</div>
 		</div>
@@ -46,30 +46,25 @@
 		<div class="container">
 			<div class="row">
 				<div class="col l6 s12 hide-on-small-only">
-					<h5 class="white-text">Arne Govaerts</h5>
-					<p class="grey-text text-lighten-4">Bovenstaande vormt een overzicht van de duiken gemaakt door <a href="https://argovaerts.github.io">Arne Govaerts</a></p>
+					<h5 class="white-text" id="diver"></h5>
+					<p class="grey-text text-lighten-4">Bovenstaande vormt een overzicht van de duiken gemaakt door <span id="divernsite"></span></p>
 				</div>
 				
 				<div class="col l4 offset-l2 s12">
 					<h5 class="white-text">Links</h5>
-					<ul>
-						<li><a class="grey-text text-lighten-3" href="/index.html">Home</a></li>
-						<li><a class="grey-text text-lighten-3" href="/projects.html">Projecten</a></li>
-						<li><a class="grey-text text-lighten-3" href="https://sites.google.com/site/explorerdiverslebbeke/">Explorer Divers Lebbeke</a></li>
-					</ul>
+					<ul id="links"></ul>
 				</div>
 			</div>
 		</div>
 		
 		<div class="footer-copyright">
-			<div class="container">
-				© 2015 Arne Govaerts <a href="https://github.com/argovaerts/divelog/">Licentie</a>
-			</div>
+			<div class="container" id="copyright"></div>
 		</div>
 	</footer>
 	
 	<script type="text/javascript" src="logdata.json"></script>
-	<script type="text/javascript" src="divelog.js"></script>
+	<script type="text/javascript" src="config.json"></script>
+	<script type="text/javascript" src="config.js"></script>
 
 </body>
 </html>
