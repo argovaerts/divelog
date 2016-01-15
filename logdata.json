@@ -69,7 +69,7 @@ var myArray = [
 	"time": "10 min",
 	"depth": "12,7 m",
 	"buddys": "Henrik Vanbelle",
-	"info": ""
+	"info": "clubduik"
 },
 {
 	"place": "Barrage de l'Eau d'Heure (B)",
@@ -78,7 +78,7 @@ var myArray = [
 	"time": "12 min",
 	"depth": "9,3 m",
 	"buddys": "Henrik Vanbelle",
-	"info": ""
+	"info": "clubduik"
 },
 {
 	"place": "Kempervennen (NL)",
@@ -178,5 +178,77 @@ var myArray = [
 	"depth": "20,7 m",
 	"buddys": "Herman Govaerts",
 	"info": "organisatie Let's Go Diving"
+},
+{
+	"place": "Oesterdam (NL)",
+	"datum": "30/08/15",
+	"timeIn": "10h24",
+	"time": "58 min",
+	"depth": "10,0 m",
+	"buddys": "Christine Lobbestael",
+	"info": "clubduik"
+},
+{
+	"place": "Oesterdam (NL)",
+	"datum": "30/08/15",
+	"timeIn": "13h05",
+	"time": "59 min",
+	"depth": "8,5 m",
+	"buddys": "Christine Lobbestael",
+	"info": "clubduik"
+},
+{
+	"place": "Ekeren (BE)",
+	"datum": "8/09/15",
+	"timeIn": "20h00",
+	"time": "60 min",
+	"depth": "9,3 m",
+	"buddys": "Christine Lobbestael en Patrick Mertens",
+	"info": "clubduik"
+},
+{
+	"place": "Boschmolenplas (NL)",
+	"datum": "13/09/15",
+	"timeIn": "11h04",
+	"time": "62 min",
+	"depth": "9,9 m",
+	"buddys": "Christine Lobbestael en Henrik Vanbelle",
+	"info": "clubduik"
+},
+{
+	"place": "Boschmolenplas (NL)",
+	"datum": "13/09/15",
+	"timeIn": "13h24",
+	"time": "65 min",
+	"depth": "10,8 m",
+	"buddys": "Christine Lobbestael en Henrik Vanbelle",
+	"info": "clubduik"
+},
+{
+	"place": "Zilvermeer (BE)",
+	"datum": "19/09/15",
+	"timeIn": "10h25",
+	"time": "56 min",
+	"depth": "8,3 m",
+	"buddys": "Henrik Vanbelle en Herman Govaerts",
+	"info": "clubduik"
+},
+{
+	"place": "Zilvermeer (BE)",
+	"datum": "19/09/15",
+	"timeIn": "12h58",
+	"time": "53 min",
+	"depth": "9,6 m",
+	"buddys": "Henrik Vanbelle en Herman Govaerts",
+	"info": "clubduik"
+},
+{
+	"place": "Transfo Zwevegem (BE)",
+	"datum": "27/12/15",
+	"timeIn": "10h22",
+	"time": "35 min",
+	"depth": "15 m",
+	"buddys": "Christine Lobbestael en Bert Vanwanbeke",
+	"info": "clubduik"
 },
 ];
